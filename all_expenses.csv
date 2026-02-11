@@ -1,0 +1,15 @@
+Id,Description,Expense_Type,Amount,Date
+1,Idle 2025-12-01,Grocery,99.0,2025-12-08
+2,coop 2025-12-01,Grocey,17.05,2025-12-08
+3,Idle 2025-12-07,Grocey,27.79,2025-12-08
+4,Primark,Clothes,59.8,2026-01-26
+5,Euro-Spin,Grocery,71.52,2026-01-26
+6,Pam,Grocery,6.86,2026-01-26
+7,Lidl,Grocery,29.6,2026-01-26
+8,Md,Grocery,39.17,2026-01-26
+9,Lidl,Grocery,19.84,2026-01-26
+10,Lion Whole Sale,Grocery,35.45,2026-01-26
+11,Grocery Market,Groceries,60.00,2026-02-11
+12,coop  Rozzano,Groceries,2.88,2026-02-02
+13,Euro spin,Groceries,59.99,2026-02-02
+14,Coop - Water supply,Groceries,2.88,2026-02-11
